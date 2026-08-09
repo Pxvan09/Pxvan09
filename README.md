@@ -6,7 +6,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ══════════════════ ANIMATED HEADER BANNER ══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0c2444,100:0d1117&height=220&section=header&text=Pavan%20G.%20Kulkarni&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=M.Sc.%20EE%20%E2%80%94%20Nano%20%26%20Opto%20Electronics%20%7C%20Universit%C3%A4t%20Stuttgart&descAlignY=62&descColor=58a6ff&descSize=15" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Pavan%20G.%20Kulkarni&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=M.Sc.%20EE%20%E2%80%94%20Nano%20%26%20Opto%20Electronics%20%7C%20Universit%C3%A4t%20Stuttgart&descAlignY=62&descColor=58a6ff&descSize=15" alt="Header Banner" width="100%" />
 
 <!-- ══════════════════ TYPING ANIMATION ══════════════════ -->
 <div align="center">
