@@ -51,9 +51,8 @@ domains    :
   - Sensor Characterization & Metrology
   - Embedded Firmware (RTOS-based)
 tools      : COMSOL · Cadence Virtuoso · Altium Designer
-languages  : Python · C · MATLAB · Shell
-seeking    : MEMS / Analog IC / Sensor internships
-             Bosch | Infineon | ASML | Nordic Semi
+languages  : Python · C · MATLAB · Shell · C++ 
+
 ```
 
 > *"Physics first — if the model isn't right, no amount of code will save you."*
